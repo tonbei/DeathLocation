@@ -1,4 +1,4 @@
-package com.tonbei.deathlocation;
+package com.github.tonbei.deathlocation;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

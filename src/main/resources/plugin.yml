@@ -1,5 +1,5 @@
 name: DeathLocation
 version: '${project.version}'
-main: com.tonbei.deathlocation.DeathLocation
+main: com.github.tonbei.deathlocation.DeathLocation
 api-version: 1.17
 authors: [ tonbei10 ]
